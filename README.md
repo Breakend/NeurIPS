@@ -4,7 +4,7 @@
 
 It might be offensive to some.
 
-Or it might be annoying to others (try searching for "NIPS" in Google image search... It's not about the conference.
+Or it might be annoying to others (try searching for "NIPS" in Google image search... It's not about the conference).
 
 This is to host the conference content under a different acronym to avoid those problems for now until the board catches up
 
