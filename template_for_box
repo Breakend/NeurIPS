@@ -1,0 +1,29 @@
+<div class="col-md-6">
+    <div class="ticketBox" data-ticket-price="50000">
+        <div class="inactiveStatus"></div>
+
+          <div class="row">
+      <div class="col-xs-6">
+<div class="ticket-name">
+              Making Algorithms Trustworthy: What Can Statistical Science Contribute to Transparency, Explanation and Validation?
+                  <span>David Spiegelhalter</span>
+              </div>
+</div>
+
+          <div class="col-xs-6">
+<div class="ticket-price-count-box">
+
+                  <p class="price">TBD</p>
+              </div>
+</div>
+          </div>
+
+
+          <div class="ticket-description">
+            <p>The demand for transparency, explainability and empirical validation of automated advice systems is not new. Back in the 1980s there were (occasionally acrimonious) discussions between proponents of rule-based systems and those based on statistical models, partly based on which were more transparent. A four-stage process of evaluation of medical advice systems was established, based on that used in drug development. More recently, EU legislation has focused attention on the ability of algorithms to, if required, show their workings. Inspired by Onora O'Neill's emphasis on demonstrating trustworthiness, and her idea of 'intelligent transparency', we should ideally be able to check (a) the empirical basis for the algorithm, (b) its past performance, (c) the reasoning behind its current claim, including tipping points and what-ifs (d) the uncertainty around its current claim, including whether the latest case comes within its remit. Furthermore, these explanations should be open to different levels of expertise.
+These ideas will be illustrated by the Predict 2.1 system for women choosing adjuvant therapy following surgery for breast cancer, which is based on a competing-risks survival regression model, and has been developed in collaboration with professional psychologists in close cooperation with clinicians and patients. Predict 2.1 has four levels of explanation of the claimed potential benefits and harms of alternative treatments, and is currently used in around 25,000 clinical decisions a month worldwide.</p>
+          </div>
+
+      </div>
+  </div>
+  <!-- end talk -->
