@@ -15,9 +15,18 @@ Just because the conference name hasn't changed doesn't mean the acronym has to 
 
 Thanks in advance!
 
+
 ## NeurIPS board
 
 The domain name can be handed over whenever you'd like, just reach out!
+
+
+## Changing the name entirely might not be a bad idea also...
+
+https://twitter.com/AnimaAnandkumar/status/1055262867501412352
+
+https://twitter.com/JeffDean/status/1055289282930176000
+
 
 ## Website template
 
