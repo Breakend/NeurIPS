@@ -18,7 +18,7 @@ Thanks in advance!
 
 ## NeurIPS board
 
-The domain name can be handed over whenever you'd like, just reach out!
+The domain name can be handed over whenever, just reach out!
 
 
 ## Changing the name entirely might not be a bad idea also...
