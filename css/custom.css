@@ -112,16 +112,16 @@ label {
     width: 41.66666667%;
     height: 100%;
     padding: 20px;
-  background: url(../images/event-banner.jpg);
+  background: url(../images/event-banner.jpeg);
   background-position: center;
       background-repeat: no-repeat;
-  /* -webkit-background-size: cover;
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover; */
+  background-size: cover;
 }
 
-.logo h1 {
+.logo {
     font-family: 'Nixie One', sans-serif;
     position: absolute;
     color: #ffffff;
@@ -138,7 +138,7 @@ label {
   font-size: 4vw;
     font-weight: 900;
   line-height: 4.5vw;
-  color: #000;
+  color: #fff;
     margin: 0;
     bottom: 30px;
 }
@@ -154,13 +154,13 @@ label {
     font-family: 'Nixie One', sans-serif;
     font-size: 16px;
     font-weight: 900;
-    color: #000;
+    color: #fff;
     margin: 0;
     bottom: 15px;
 }
 
 .event-banner-wrapper p a {
-  color: #000;
+  color: #fff;
 }
 
 .event-banner-wrapper p a:hover {
