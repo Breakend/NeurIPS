@@ -4,6 +4,8 @@
 
 See: https://neurips.cc/Conferences/2018/Press
 
+Medium post that explained this mirror which originally was hosted at www.neurips.com (for posterity): https://medium.com/@breakend/neurips-2018-10abf2f56dca
+
 # Previously 
 
 ## People are upset by the acronym "NIPS"
