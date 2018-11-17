@@ -1,5 +1,11 @@
 # NeurIPS Content Mirror
 
+🎉🎉🎉This used to hold the content for a mirror of the Neural Information Processing Systems conference under a different acronym. As of Nov 16, the official conference has changed its official working acronym and www.neurips.com now redirects to the main site (neurips.cc) and is in the process of being transferred over to the NeurIPS Foundation.🎉🎉🎉
+
+See: https://neurips.cc/Conferences/2018/Press
+
+# Previously 
+
 ## People are upset by the acronym "NIPS"
 
 It might be offensive to some.
